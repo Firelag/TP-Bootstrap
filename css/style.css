@@ -1,0 +1,20 @@
+body .image {
+  background-image: url("/images/hero shape 5.png");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-color: #252B42;
+  background-size: cover;
+}
+body .section1 {
+  background-color: #252B42;
+  height: 100vh;
+}
+body .section1 .cadre1 {
+  background-color: white;
+}
+body .section1 .cadre2 {
+  background-color: white;
+}
+body .section1 .cadre3 {
+  background-color: white;
+}/*# sourceMappingURL=style.css.map */
